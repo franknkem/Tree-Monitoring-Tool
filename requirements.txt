@@ -1,0 +1,4 @@
+# Tree Monitoring Tool
+# Offline-ready Python CLI tool
+
+Python>=3.8
