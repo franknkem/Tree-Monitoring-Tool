@@ -1,0 +1,34 @@
+Mango Tree Monitoring Report
+============================
+Total mango trees planted: 12
+Healthy: 7
+Needs Water: 4
+Dead: 1
+Survival rate: 91.7%
+
+Location Breakdown:
+- Camp Gate: 1 tree(s)
+- Admin Block: 1 tree(s)
+- Parade Ground: 1 tree(s)
+- Hostel Front: 1 tree(s)
+- Camp Hall: 1 tree(s)
+- Camp Kitchen: 1 tree(s)
+- Mammy Market Area: 1 tree(s)
+- Camp Clinic Front: 1 tree(s)
+- Camp Mosque Area: 1 tree(s)
+- Camp Chapel Front: 1 tree(s)
+- Camp Admin Walkway: 1 tree(s)
+- Camp Hall Back: 1 tree(s)
+
+Assigned Team Breakdown:
+- Team A: 4 tree(s)
+- Team B: 3 tree(s)
+- Team C: 3 tree(s)
+- Team D: 2 tree(s)
+
+Trees Needing Attention:
+- Tree 002 at Admin Block | Status: Needs Water | Assigned to: Team B
+- Tree 004 at Hostel Front | Status: Dead | Assigned to: Team A
+- Tree 005 at Camp Hall | Status: Needs Water | Assigned to: Team D
+- Tree 008 at Camp Clinic Front | Status: Needs Water | Assigned to: Team A
+- Tree 011 at Camp Admin Walkway | Status: Needs Water | Assigned to: Team C
