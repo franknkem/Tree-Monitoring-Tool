@@ -78,13 +78,13 @@ tree_id,species,location,date_planted,status,next_check,assigned_to
 
 ### Field Descriptions:
 
-* tree_id: Unique identifier for each tree
-* species: Type of tree (Mango)
-* location: Planting location within the camp
-* date_planted: Date of planting
-* status: Current condition (Healthy, Needs Water, Dead)
-* next_check: Scheduled follow-up date
-* assigned_to: Responsible team or individual
+* **tree_id**: Unique identifier for each tree
+* **species**: Type of tree (Mango)
+* **location**: Planting location within the camp
+* **date_planted**: Date of planting
+* **status**: Current condition (Healthy, Needs Water, Dead)
+* **next_check**: Scheduled follow-up date
+* **assigned_to**: Responsible team or individual
 
 
 ## Installation
